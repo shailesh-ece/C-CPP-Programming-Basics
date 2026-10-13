@@ -108,7 +108,7 @@ More projects and repositories will be added as I progress.
 
 I'm interested in connecting with students, engineers, and developers interested in electronics, VLSI, embedded systems, and technology.
 
-- **LinkedIn:** [Add your LinkedIn profile link here]
+- **LinkedIn:** [Shailesh.P](www.linkedin.com/in/shailesh-P-533403440)
 - **GitHub:** [Shailesh-P](https://github.com/Shailesh-P)
 
 ---
